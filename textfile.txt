@@ -1,0 +1,12 @@
+Requirements
+What is a version control system
+
+installing git on windows, Linux, and mac
+
+working with git bash
+
+creating repositories
+
+git stages
+
+git workflows
